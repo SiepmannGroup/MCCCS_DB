@@ -20,6 +20,8 @@ MFI-C4-W-all.csv	MFI-C4-W-stat.csv
 MFI-C5-E-all.csv	MFI-C5-E-stat.csv
 LTA-C5-W-all.csv	LTA-C5-W-stat.csv
 ```
+Also, tabular simulation data for unary sorption of the components involved above are provided in the ```unary/``` directory for users who wish to apply prediction models requiring unary sorption data (ideal adsorbed solution theory, for example). The naming and column format are the same as the main dataset, while there are one initial and one equilibrium loading in each file.
+
 
 ### Source
 This dataset is generated from molecular simulations as described in this manuscript: 
