@@ -13,7 +13,7 @@ Initial and equilibrium loadings are provided as numbers of molecules. All exten
 1024 state points (*N*<sub>1</sub>*N*<sub>2</sub>*VT* combinations) were measured by 32 independent simulations at each state point. In the <code>-all</code> version of the data, all independent simulation results are included, giving a 32768×6 table for each file. In the <code>-stat</code> version, independent simulation results are represented as means and standard deviations, giving a 1024×8 table for each file. All tables are stored in the CSV format.
 
 ### Files
-Below are the files containing tables for this dataset. The prefix (e.g., MFI-C5-W) indicates the zeolite, alkanediol and solvent for the simulation system. C4: 1,4-butanediol; C5: 1,5-butanediol; W: water; E: ethanol.
+Below are the files containing tables for this dataset. The prefix (e.g., MFI-C5-W) indicates the zeolite, alkanediol and solvent for the simulation system. C4: 1,4-butanediol; C5: 1,5-pentanediol; W: water; E: ethanol.
 ```
 MFI-C5-W-all.csv	MFI-C5-W-stat.csv
 MFI-C4-W-all.csv	MFI-C4-W-stat.csv
