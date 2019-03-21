@@ -29,5 +29,5 @@ Also, tabular simulation data for unary sorption of the components involved abov
 
 ### Source
 This dataset is generated from molecular simulations as described in this manuscript: 
-* Y. Sun, R. F. DeJaco, J. I. Siepmann, Deep Neural Network Learning of Complex Binary Sorption Equilibria from Molecular Simulation Data, *Submitted*. 
+* Y. Sun, R. F. DeJaco, J. I. Siepmann, Deep Neural Network Learning of Complex Binary Sorption Equilibria from Molecular Simulation Data, *Chem. Sci.* **2019**, DOI: 10.1039/C8SC05340E 
 See the supporting information for simulation details.
