@@ -14,7 +14,7 @@ unit cells used in the simulation (12 for MFI, 27 for LTA) so that they correspo
 
 ### Files
 Below are the files containing tables for this dataset. The prefix (e.g., MFI-C5-W) indicates the zeolite, alkanediol and solvent for the simulation system. 
-C4: 1,4-butanediol; C5: 1,5-butanediol; W: water; E: ethanol. The suffix <code>-all</code> includes the results for all independent simulations, giving a 32768x6 table for each file. 
+C4: 1,4-butanediol; C5: 1,5-pentanediol; W: water; E: ethanol. The suffix <code>-all</code> includes the results for all independent simulations, giving a 32768x6 table for each file. 
 The suffix <code>-stat</code> represents the independent simulations as means and standard deviations, giving a 1024x8 table for each file. All tables are stored in the CSV format.
 
 
